@@ -1,0 +1,9 @@
+google-generativeai
+openpyxl
+pymupdf
+pdfminer.six
+fitz 
+streamlit
+pandas
+seaborn
+matplotlib
